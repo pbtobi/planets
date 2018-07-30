@@ -1,1 +1,2 @@
- Venus isn't the closest planet to Earth.
+ Venus isn't the closest planet to Earth
+Mars is the closest one.
